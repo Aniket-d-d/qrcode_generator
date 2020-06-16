@@ -7,3 +7,5 @@ This project is build as a webapp using flask to generate a qr-code for your lin
 <br/><br/>
 This webapp will let you enter any link and will create a qrcode image for that.
 <br/>Make sure you have installed these modules - flask, qrcode, sqlite3, os.
+<br/><br/>
+In the database the table is created which stores the link and the name given to that qrcode-image.
